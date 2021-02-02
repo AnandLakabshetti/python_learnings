@@ -1,0 +1,33 @@
+
+pip is a python package manageer.
+
+inbuilt packages we can import directly otherwise we have to install
+the modules and then we have to import in program to use it in program.
+
+
+Two types of modules:
+   build in modules--> these will be installed in system i.e os 
+   external modules -> need to install externally i.e flask
+
+
+we can use the python as calculator (REPL)-> on cmd type python 
+
+>> 1+2
+3
+
+>>1*2
+2
+
+
+
+comment in the python 
+
+use '#'->comment in the file for single line comment .
+
+'''  this is multi line comment   ''' 
+
+
+
+
+
+
