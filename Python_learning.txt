@@ -1,4 +1,9 @@
 
+to setup the vim shortcuts we need to update the vim ~/.vimrc
+
+to update the shell related things we need to change the ~/.bashrc
+	after updating bashrc we need to run source bashrc
+
 pip is a python package manageer.
 
 inbuilt packages we can import directly otherwise we have to install
@@ -27,7 +32,32 @@ use '#'->comment in the file for single line comment .
 '''  this is multi line comment   ''' 
 
 
+#string in python 
 
 
+
+### In 3 way we can declare the string 
+
+st='my name is anand'
+st1="my name is anand"
+st2='''my name is anand
+anand is my name '''
+
+
+1)"it's mine "
+2)'''it"s mine'''
+3)'it"s mine"s'
+
+
+s1+s2---> string concatination
+
+st[0] --> first character of the string 
+st[0:] --> from first character to last character it will print 
+st[:] --> it will print all character
+st[:5] --> it will print from first character to 5th character 
+#st [start index : last index]
+st[-4:] -->character from the last 4th to till end it will print 
+
+st[0:5:2] --> it will print each character with step of '2' upto first 5 character
 
 
