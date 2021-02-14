@@ -48,7 +48,6 @@ anand is my name '''
 2)'''it"s mine'''
 3)'it"s mine"s'
 
-
 s1+s2---> string concatination
 
 st[0] --> first character of the string 
@@ -59,5 +58,40 @@ st[:5] --> it will print from first character to 5th character
 st[-4:] -->character from the last 4th to till end it will print 
 
 st[0:5:2] --> it will print each character with step of '2' upto first 5 character
+
+list declaration:
+	list_l=[1,2,3,4]
+	list_l=[1,2,3,"anand",23.5]
+	functions->
+	list_l.append(),list_l.reverse,list_l.sort,
+	list_l.insert(3,33)
+	list_l.pop(2) -->delete item from the  index 2
+	list_l.remove(21) -->remove the 22 from the list
+
+
+
+tuple
+ tup=(1,) -->tuple with single element
+ tup=(1) --> wrong declaration of tuple
+
+once we define the tuple then we cannot change the elements i.e tuple i simmutable
+
+
+#conditional statements:
+
+
+relational operators:
+	relational operators are used to evaluate conditions inside the if 
+statement i.e '==', '>=','<='
+
+
+logical operators also we can use in the conditional statements.
+
+there can be N no of elif conditions
+
+else is optional in if else ladder.
+
+
+
 
 
